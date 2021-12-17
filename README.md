@@ -1,6 +1,6 @@
 <h1 align = "center">JaeJun Lee</h1>
 
-<h3> :computer: Tech</h3>
+<h3> :satisfied: Interest</h3>
 <div>
   <b>System Security and Data Analysis<b>
 </div>
