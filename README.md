@@ -1,4 +1,4 @@
-<p>Hi there:hand: I'm a software major student interested in <b>system security and data analysis!<b></p>
+<p align = "center">Hi there:hand: I'm a software major student interested in <b>system security and data analysis!<b></p>
   
 
 <h3 align = "center" > :computer: Tech</h3>
@@ -11,7 +11,7 @@
 </div>
 
   
-<div>  
+<div align = "center">  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
