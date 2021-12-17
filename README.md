@@ -1,4 +1,4 @@
-<p>Hi there:hand: I'm a software major student interested in <b>security and data analysis!<b></p>
+<p>Hi there:hand: I'm a software major student interested in <b> security and data analysis!<b></p>
   
 
 
