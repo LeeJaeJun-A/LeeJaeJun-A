@@ -1,4 +1,4 @@
-<h1 align = "center">JaeJun Lee</h1>
+<h1 align = "center">Introduce Myself!</h1>
 
 <h3>:satisfied: Interest</h3>
 <div>
