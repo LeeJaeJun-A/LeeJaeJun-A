@@ -1,4 +1,4 @@
-<h3 align=center>hihi</h3>
+<h1 align=center> :smile:Hi</h3>
 
 <!--
 **LeeJaeJun-A/LeeJaeJun-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
