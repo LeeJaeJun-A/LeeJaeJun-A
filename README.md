@@ -21,6 +21,10 @@
 </div>
 
 <h3>:books:Career</3>
+    <p>asdfasdf
+    asdfsadfasdf
+    asfdsadfas
+    </p>
 <h4>-Majoring in software at Sungkyunkwan University (2021~)</h4>
 <h4>-KATUSA (2022~2023.7)</h4>
     
