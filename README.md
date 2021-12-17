@@ -1,5 +1,5 @@
 <h1 align=center>Hi:hand: I'm Lee JaeJun</h3>
-<div style = "margin = 30px;">
+<div style = "margin = 300px;">
   hihi
 </div>
 <!--
