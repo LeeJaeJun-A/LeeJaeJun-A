@@ -1,5 +1,10 @@
 <h1 align = "center">JaeJun Lee</h1>
-  
+
+<h3> :computer: Tech</h3>
+<div>
+  - System Security
+  - Data Analysis
+</div>
 
 <h3> :computer: Tech</h3>
 <div>
