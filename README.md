@@ -2,7 +2,7 @@
 
 📫 How to reach me:
 <div>
-<a href="링크걸_주소"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/leej_jun/"/></a>&nbsp
+<a href="https://www.instagram.com/leej_jun/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/leej_jun/"/></a>&nbsp
   </div>
 
 
