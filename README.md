@@ -1,4 +1,4 @@
-<p align = "center">Hi there:hand: I'm a software major student interested in <b>system security and data analysis!<b></p>
+<h1 align = "center">Hi there:hand:</h1>
   
 
 <h3> :computer: Tech</h3>
