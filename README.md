@@ -1,10 +1,10 @@
 <p>Hi there:hand: I'm a software major student interested in <b>security and data analysis!<b></p>
 
 :computer: <b>Tech<b> that I've used at least once
-  
+<div>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-
+</div>
 
   
 📫 How to reach me 
