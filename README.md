@@ -21,7 +21,8 @@
 </div>
 
 <h3>:books:Career</3>
-<h5>-Department of Software at Sungkyunkwan University.</h5>
+<h5>-Majoring in software at Sungkyunkwan University (2021~)</h5>
+<h5>-KATUSA (2022~2023.7)</h5>
     
 <h3>📫 How to reach me </h3>
 <div>
