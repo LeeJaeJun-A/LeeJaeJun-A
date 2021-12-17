@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 </div>
 
-<h3>:books:Career</3>
+<h3>:books: Career</3>
 <p>
 -Majoring in software at Sungkyunkwan University (2021~)<br>
 -KATUSA (2022~2023.7)<br>
