@@ -1,7 +1,9 @@
-<h1 align=center>Hi:hand: I'm Lee JaeJun</h3>
-<div style = "margin:300px;">
-  hihi
-</div>
+<h3>Hi there:hand: I'm a software major student interested in <b>security and data analysis!<b></h3>
+
+
+
+
+
 <!--
 **LeeJaeJun-A/LeeJaeJun-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
