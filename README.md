@@ -3,6 +3,7 @@
 📫 How to reach me:
 <div>
 <a href="https://www.instagram.com/leej_jun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/leej_jun/"/></a>&nbsp
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp 
 </div>
 
 
