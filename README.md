@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there:hand:</h1>
+<h1 align = "center">JaeJun Lee</h1>
   
 
 <h3> :computer: Tech</h3>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 </div>
 
-<p> 📫 How to reach me <p>
+<h3> 📫 How to reach me </h3>
 <div>
 <a href="https://www.instagram.com/leej_jun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/leej_jun/"/></a>&nbsp
 <img src="https://img.shields.io/badge/sjaqjnjs@g.skku.edu -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
