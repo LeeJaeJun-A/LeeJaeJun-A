@@ -21,7 +21,7 @@
 </div>
 
 <h3>:books:Career</3>
-<p>Department of Software at Sungkyunkwan University.</p>
+<h5>-Department of Software at Sungkyunkwan University.</h5>
     
 <h3>📫 How to reach me </h3>
 <div>
