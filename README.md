@@ -2,7 +2,7 @@
 
 <h3> :computer: Tech</h3>
 <div>
-  <b>System Security<b> and <b>Data Analysis<b>
+  <b>System Security and Data Analysis<b>
 </div>
 
 <h3> :computer: Tech</h3>
