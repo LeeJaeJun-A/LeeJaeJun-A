@@ -2,7 +2,7 @@
 
 <h3>:satisfied: Interest</h3>
 <div>
-  <b>System Security and Data Analysis<b>
+  <b>Cloud security<b>
 </div>
 
 <h3>:computer: Tech</h3>
