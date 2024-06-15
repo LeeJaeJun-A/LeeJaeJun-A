@@ -1,10 +1,5 @@
 <h1 align = "center">About me!!</h1>
 
-<h3>:satisfied: Interest</h3>
-<div>
-  <b>Cloud security<b>
-</div>
-
 <h3>:computer: Tech</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
