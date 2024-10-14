@@ -14,12 +14,14 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </div>
 
 <h3>:books: Career</3>
 <p>
 -Majoring in software at Sungkyunkwan University (2021~)<br>
--KATUSA (2022~2023.7)<br>
+-KATUSA (2022.12 - 2023.7)<br>
+-S-developer. KISIA. Frontend and Backend Developer (2024.03 – 2024.11)<br>
 </p>
     
 <h3>📫 How to reach me </h3>
