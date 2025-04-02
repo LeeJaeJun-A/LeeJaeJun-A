@@ -19,15 +19,19 @@
 
 <h3>:books: Career</3>
 <p>
--Majoring in software at Sungkyunkwan University (2021~)<br>
--KATUSA (2022.12 - 2023.7)<br>
--S-developer. KISIA. Frontend and Backend Developer (2024.03 – 2024.11)<br>
+- Majoring in software at Sungkyunkwan University (2021~)<br>
+- KATUSA (2022.12 - 2023.7)<br>
+- S-developer. KISIA. Frontend and Backend Developer (2024.03 – 2024.11)<br>
+- ENKI WhiteHat — Threat Detection Team, Researcher (2024.07 – Present)<br>
 </p>
     
 <h3>📫 How to reach me </h3>
 <div>
 <a href="https://www.instagram.com/leej_jun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/leej_jun/"/></a>&nbsp
 <img src="https://img.shields.io/badge/sjaqjnjs@g.skku.edu -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
+<a href="https://www.linkedin.com/in/jaejun-lee-39b169215/details/experience/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
 </div>
 
 <div align=center>
@@ -35,18 +39,3 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeeJaeJun-A%2Fzzsza)](https://hits.seeyoufarm.com) 	
   
 </div>
-
-<!--
-**LeeJaeJun-A/LeeJaeJun-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
