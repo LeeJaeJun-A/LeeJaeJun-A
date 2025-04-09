@@ -33,10 +33,3 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 </div>
-
-<div align="center">
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeeJaeJun-A%2Fzzsza)](https://hits.seeyoufarm.com)
-
-</div>
-
