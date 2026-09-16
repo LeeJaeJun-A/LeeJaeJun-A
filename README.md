@@ -19,10 +19,11 @@
 
 <h3>:books: Career</3>
 <p>
-- Majoring in software at Sungkyunkwan University (2021~)<br>
+- Graduate in computer science at Sungkyunkwan University (2021.02~2026.08)<br>
 - KATUSA (2022.12 - 2023.7)<br>
 - S-developer. KISIA. Frontend and Backend Developer (2024.03 – 2024.11)<br>
-- ENKI WhiteHat — Threat Detection Team, Researcher (2024.07 – Present)<br>
+- ENKI WhiteHat — Threat Detection Team, Researcher (2024.07 – 2026.06)<br>
+- Hyundai Motor Company - Data Architect (2026.08 ~)<br>
 </p>
     
 <h3>📫 How to reach me </h3>
